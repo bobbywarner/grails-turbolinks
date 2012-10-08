@@ -1,0 +1,5 @@
+"Turbolinks":https://github.com/rails/turbolinks makes following links in your web application faster. Instead of letting the browser recompile the JavaScript and CSS between each page change, it keeps the current page instance alive and replaces only the body and the title in the head. Think CGI vs persistent process.
+
+h4. Release History
+* October 8, 2012
+** 0.1 releas
