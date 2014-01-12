@@ -1,2 +1,10 @@
-introduction: 
+introduction:
   title: Introduction
+compatibility:
+  title: Compatibility
+initialization:
+  title: Initialization
+events:
+  title: Events
+transition_cache:
+  title: Transition Cache
