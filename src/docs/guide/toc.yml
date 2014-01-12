@@ -1,2 +1,8 @@
-introduction: 
+introduction:
   title: Introduction
+initialization:
+  title: Initialization
+events:
+  title: Events
+transition_cache:
+  title: Transition Cache
