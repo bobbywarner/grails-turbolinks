@@ -8,6 +8,8 @@ grails.project.dependency.resolution = {
 
     repositories {
         grailsCentral()
+        mavenLocal()
+        mavenCentral()
     }
 
     dependencies {}
@@ -17,7 +19,7 @@ grails.project.dependency.resolution = {
             export = false
         }
 
-        build(":release:2.0.3") {
+        build(":release:2.2.1", ":rest-client-builder:1.0.3") {
             export = false
         }
     }
