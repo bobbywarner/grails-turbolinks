@@ -1,7 +1,6 @@
 class TurbolinksGrailsPlugin {
     def version = "0.1"
     def grailsVersion = "2.0 > *"
-    def dependsOn = ['resources':'1.1.6 > *']
     def title = "Turbolinks"
     def author = "Bobby Warner"
     def authorEmail = "bobbywarner@gmail.com"
@@ -10,4 +9,6 @@ class TurbolinksGrailsPlugin {
     def license = "MIT"
     def issueManagement = [ system: "GitHub", url: "https://github.com/bobbywarner/grails-turbolinks/issues" ]
     def scm = [ url: "https://github.com/bobbywarner/grails-turbolinks" ]
+    def developers = [ [name: 'David Estes'] ]
+
 }
