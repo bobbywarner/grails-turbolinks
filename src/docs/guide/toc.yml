@@ -1,5 +1,7 @@
 introduction:
   title: Introduction
+compatibility:
+  title: Compatibility
 initialization:
   title: Initialization
 events:
